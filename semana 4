@@ -1,0 +1,77 @@
+int c;
+
+
+
+
+
+
+
+      // Incremento
+
+
+
+      c = 5;
+
+
+
+      Console.WriteLine("Incrementos:");
+
+
+
+      Console.WriteLine("c = {0}", c);   // Imprime 5
+
+
+
+      Console.WriteLine("c++ = {0}", c++);  // Imprime 5, luego c = 6
+
+
+
+      Console.WriteLine("c = {0}", c);   // Imprime 6
+
+
+
+      Console.WriteLine("++c = {0}", ++c);  // c = 7, luego imprime 7
+
+
+
+      Console.WriteLine("c = {0}", c);   // Imprime 7
+
+
+
+
+
+
+
+      Console.WriteLine(); // Línea en blanco
+
+
+
+
+
+
+
+      // Decremento
+
+
+
+      c = 5;
+
+
+
+      Console.WriteLine("Decrementos:");
+
+
+
+      Console.WriteLine("c = {0}", c);   // Imprime 5
+
+
+
+      Console.WriteLine("c-- = {0}", c--);  // Imprime 5, luego c = 4
+
+
+
+      Console.WriteLine("c = {0}", c);   // Imprime 4
+
+
+
+      Console.WriteLine("--c = {0}", --c);  // c = 3, luego imprime 3
